@@ -1,0 +1,11 @@
+{
+    "url": "https://www.cntraveler.com",
+    "attribute" :{
+        "header": "post-header-inner",
+        "image": "img-block",
+        "tag": "href",
+        "description": "post-excert",
+        "Contributor": "author-name",
+        "date": "post-date"
+    }
+}
